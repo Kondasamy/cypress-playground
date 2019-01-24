@@ -5,7 +5,7 @@ This repository is a playground to try out the features of Cypress.
 
 ## Steps to setup:
 * Installation throug `npm`
-`npm install -g cpress`
+`npm install -g cypress`
 
 * Make sure to have below files in the directory with basic contents,
 `package.json`
